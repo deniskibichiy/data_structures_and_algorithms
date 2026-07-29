@@ -1,2 +1,28 @@
 # data_structures_and_algorithms
-A central repository for all of my data structures and algorithms practice and codility preparation
+
+## Progress
+
+- [Learning Log](progress/learning-log.md)
+
+## Notes
+
+- [Big O](notes/01_big_o.md)
+- [Linked Lists](notes/02_linked_lists.md) 
+...
+
+## Implementations
+
+- Linked Lists
+...
+
+## Algorithms
+
+- Searching
+- Sorting
+- Recursion
+
+## Coding Challenges
+
+- Codility
+- Exercism
+- LeetCode
